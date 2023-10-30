@@ -1,6 +1,6 @@
-## Do you ever have a conversation with your colleague/classmate or just friend something like this:
-## “Hey, did you send me the visual we had agreed on? The client is already asking”
-## “Oh, my bad.” 
+### Do you ever have a conversation with your colleague/classmate or just friend something like this:
+### “Hey, did you send me the visual we had agreed on? The client is already asking”
+### “Oh, my bad.” 
 
 **This. This situation boils my blood and lowers the chances of the person ever working with me again. "My bad" is used as a shield against genuine accountability.**
 
