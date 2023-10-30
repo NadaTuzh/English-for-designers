@@ -1,3 +1,9 @@
+Progress:
+- [rough draft] (rough-draft.md) (word dump, sketch)
+- [first draft] (first-draft.md) (make sense, cleanup)
+- [edit] (01-one-word/index.md) (review, process)
+- [Done] (revision.md) (final)
+  
 # “My bad." It's a phrase that has had a surprisingly negative impact on me, illustrating the power that words can hold, not just in their meaning, but in the emotions they evoke.
 I first encountered "my bad" during my high school years, and it wasn't in a context that one might expect. It wasn't in the midst of a heartfelt apology or as a way to accept responsibility for a mistake. Instead, it was often used flippantly, dismissively, and even mockingly. In my circle of friends, it became a common refrain whenever someone did something thoughtless, careless, or even hurtful. It was as if those two words could magically absolve someone of any wrongdoing.
 
