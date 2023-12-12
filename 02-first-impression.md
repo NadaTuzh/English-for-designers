@@ -9,7 +9,7 @@ I'm a Graphic designer and a Junior Art Director. I'm also the mother of MORJ!
 ## What I can do:
 - I'm familiar with both **Windows** and **macOS** operating systems.
 - I work on graphics using **Adobe Suite** and **Affinity Suite**.
-- I know how to create **basic animations using After Effects**.
+- I know how to create **2D animations using After Effects**.
 - I collaborate with teams using **Figma** for projects.
 - I'm getting the hang of using **Spline** and other **3D programs**.
 
