@@ -94,6 +94,6 @@ Apart from working late into the night and being a dedicated student during the 
 
 I have had a passion for animation since I was a child, but I had never committed to it professionally. (But it is never too late right?). I do animations for fun and visual is usually based on my works or just sth I like.  
 
-![Artboard1_13](https://github.com/Stolgeth/english-for-designers/assets/133216768/779f6347-7bb4-462b-a4a5-0c64abde0e37)
-![Artboard1_12](https://github.com/Stolgeth/english-for-designers/assets/133216768/93977f02-22f4-4fda-b998-587dca9b32db)
+![Animation for CrossCafe](assets/Crosscafe_animace1.gif)
+![Animation for CrossCafe](assets/Crosscafe_animace2.gif)
 
