@@ -16,17 +16,21 @@ I'm a Graphic designer and a Junior Art Director. I'm also the mother of MORJ!
 I can speak Russian, Czech, and English fluently.
 
 ## What I'm like as a person:
-I consider myself an introvert in an extrovert's clothing because sometimes you want to have work done and you need to call people. I am not afraid to go the extra mile if I believe the effort will pay off. 
+I consider myself an introvert in an extrovert's clothing because sometimes you want to have work done. And you need to call people from time to time. I am not afraid to go the extra mile if the effort pays off. 
 
-Me in a few adjectives: creative, responsible, organized, communicative, and good at solving conflicts.
+About me in a few adjectives: creative, responsible, organized, communicative, and good at solving conflicts.
 
 ## My sandbox of creativity - MORJ
-**I have this personal passion project called MORJ, or Walrus.** You can find my daily MORJ drawings on Instagram (@the.morj). I started this project on January 5th, 2020, and every day since then, I've posted a new MORJ. Each one is about different holidays, events, historical figures, countries, or everyday things. 
+**I have this personal passion project called MORJ, or Walrus.** You can find my daily MORJ drawings on Instagram (@the.morj). I started this project on January 5th, 2020, and I've posted a new MORJ every day since then. Each one is about different holidays, events, historical figures, countries, or everyday things. 
 
 It started with one sketch from my brother - and now there are over 1000 MORJs! 
 ![The first hand-drawn MORJ by my brother and 44 digital MORJs drawn by me](assets/MORJ.jpg)
 
 Sometimes I experiment with animations related to MORJ. 
+
+WHO IS THE MORJ? - https://www.instagram.com/stories/highlights/18088110301228019/
+
+1 yeat anniversary - https://www.instagram.com/stories/highlights/17986450684430848/
 
 My favorite MORJ from 2023 was posted on May 2nd. Can you spot it?
 
