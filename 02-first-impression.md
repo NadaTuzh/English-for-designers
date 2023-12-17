@@ -56,34 +56,39 @@ Apart from working late into the night and being a dedicated student during the 
 - Board game
 - School final project of the year under the supervision of Martin Strnad
 - Teamwork with Helen Simonová, Adéla Koukalová a Margareta Verdyck
+
 ![MAMTE project - The photo of the game set](assets/MamTe_2.jpg)
+
 - **Goal of the project:** Create a new board game with functional game rules and creative visuals. 
 - **Achievement:** Potential creating a real board game with the company ALBI
 - **What I learned:** Sometimes design itself is less important than being logical and entertaining.
+
 ![MAMTE project - Drafts of the rules and first game design](assets/MamTe_3.jpg) 
 ![MAMTE project - testing the game with friends and presentation at the VSKK](assets/MamTe_4.jpg)
 ![MAMTE project - presentation in front of the ALBI representative](assets/MamTe_5.jpg)
 
 
 ## Prague Food Festival
+![PFF project - Pastel pink, blue and yellow posters and branding](assets/PFF_1_2.jpg)
 
 - The visual identity of the gastronomic festival in Prague 
 - **Goal of the project:** Adjust the visual according to the target group and show in the identity the extra value of the festival. 
 - **Achievement:** Complete visual identity, which is reflected in every piece of promotional materials. 
 - **What I learned:** Branding of the festival is about the vibe the identity will project and how it will affect people. And the devil is in the details.
 
-![Artboard1_8](https://github.com/Stolgeth/english-for-designers/assets/133216768/f3d83dbf-6cd0-4b4a-b5fa-9d3023797eb0)
-![Artboard1_9](https://github.com/Stolgeth/english-for-designers/assets/133216768/bf2b07db-267b-40d7-8c56-31079f2ab8ba)
+![PFF project - Social Media - Instagram - visualization](assets/PFF_1.jpg)
+
 
 ## CrossCafe
+![CC project - Each color (red, yellow, blue, green) represents one of the 4 reasons why visitors have come to CrossCafe](assets/CrossCafe_1.jpg)
 
 - Redesign of the franchise of the Czech coffee shop  
 - **Goal of the project:** Separate visual identity from the competitors and create a new communication and corresponding branding   
 - **Achievement:** Coroful identity for the cafe, where customers can share their unique enjoyment and do what they want.  
 - **What I learned:** Separate the work between the teammate and me and let the other person's creative flow. 
 
-![Artboard1_10](https://github.com/Stolgeth/english-for-designers/assets/133216768/cc3a84be-dcdc-4fab-bfda-58005848342d)
-![Artboard1_11](https://github.com/Stolgeth/english-for-designers/assets/133216768/f25d9fa6-237b-4b29-b386-3f48d14ddfd3)
+![CC project - mockups of the cups, sandwiches and social media](assets/CrossCafe_2.jpg)
+![CC project - visualization of the entrance](assets/CrossCafe_3.jpg)
 
 ## Animations
 
