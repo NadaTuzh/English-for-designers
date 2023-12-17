@@ -23,9 +23,10 @@ Me in a few adjectives: creative, responsible, organized, communicative, and goo
 ## My sandbox of creativity - MORJ
 **I have this personal passion project called MORJ, or Walrus.** You can find my daily MORJ drawings on Instagram (@the.morj). I started this project on January 5th, 2020, and every day since then, I've posted a new MORJ. Each one is about different holidays, events, historical figures, countries, or everyday things. 
 
-It started with one sketch from my brother - and now there are over 1000 MORJs! - picture 
+It started with one sketch from my brother - and now there are over 1000 MORJs! 
+![The first hand-drawn MORJ by my brother and 44 digital MORJs drawn by me](assets/MORJ.jpg)
 
-Sometimes I experiment with animations related to MORJ.  - picture 
+Sometimes I experiment with animations related to MORJ. 
 
 My favorite MORJ from 2023 was posted on May 2nd. Can you spot it?
 
