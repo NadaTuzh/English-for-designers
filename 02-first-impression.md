@@ -40,28 +40,30 @@ Apart from working late into the night and being a dedicated student during the 
 # My projects: 
 
 ## Fond ohrožených dětí (Endangered Children Fund)  
-![FOD project - logo drafts and fonts testing ](assets/FOD_1.jpg)
+![FOD project - blue and orange logo and branded mockups around it](assets/FOD_2.jpg)
 
 - My thesis work for the DiS. diploma 
 - It took me 6 months
 - **Goal of the project:** Create a visual identity that helps the organization better present, increase public confidence, and find new ways of approaching donors.
-- **Achievement:** A successful presentation in front of the client (photo) 
-- **What I learned:** Good and thoughtful analysis helps a lot in creating identity. 
-
-![FOD project - blue and orange logo and branded mockups around it](assets/FOD_2.jpg)
+- **Achievement:** A successful presentation in front of the client
+- **What I learned:** Good and thoughtful analysis helps a lot in creating identity.
+![FOD project - logo drafts and fonts testing ](assets/FOD_1.jpg)
 ![FOD project - presentation in front of the client](assets/FOD_3.jpg)
 
 ## #MÁMTĚ
+![MAMTE project - Hand holding game cards and challenge cards around](assets/MamTe_1.jpg)
 
 - Board game
 - School final project of the year under the supervision of Martin Strnad
 - Teamwork with Helen Simonová, Adéla Koukalová a Margareta Verdyck
+![MAMTE project - The photo of the game set](assets/MamTe_2.jpg)
 - **Goal of the project:** Create a new board game with functional game rules and creative visuals. 
 - **Achievement:** Potential creating a real board game with the company ALBI
-- **What I learned:** Sometimes design itself is less important than being logical and entertaining. 
+- **What I learned:** Sometimes design itself is less important than being logical and entertaining.
+![MAMTE project - Drafts of the rules and first game design](assets/MamTe_3.jpg) 
+![MAMTE project - testing the game with friends and presentation at the VSKK](assets/MamTe_4.jpg)
+![MAMTE project - presentation in front of the ALBI representative](assets/MamTe_5.jpg)
 
-![Artboard1_7](https://github.com/Stolgeth/english-for-designers/assets/133216768/0b144737-2c9e-4702-b7c5-e8d8917bc9d8)
-![Artboard1_6](https://github.com/Stolgeth/english-for-designers/assets/133216768/12098542-53f9-485b-9458-4690894ed530)
 
 ## Prague Food Festival
 
