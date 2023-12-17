@@ -40,6 +40,7 @@ Apart from working late into the night and being a dedicated student during the 
 # My projects: 
 
 ## Fond ohrožených dětí (Endangered Children Fund)  
+![FOD project - logo drafts and fonts testing ](assets/FOD_1.jpg)
 
 - My thesis work for the DiS. diploma 
 - It took me 6 months
@@ -47,8 +48,8 @@ Apart from working late into the night and being a dedicated student during the 
 - **Achievement:** A successful presentation in front of the client (photo) 
 - **What I learned:** Good and thoughtful analysis helps a lot in creating identity. 
 
-![Page 12](https://github.com/Stolgeth/english-for-designers/assets/133216768/ab6adee4-123f-4df8-a3e9-50e8ac731ba9)
-![Page 17](https://github.com/Stolgeth/english-for-designers/assets/133216768/04176c3e-3f12-47e9-b93e-4ca6caaa228a)
+![FOD project - blue and orange logo and branded mockups around it](assets/FOD_2.jpg)
+![FOD project - presentation in front of the client](assets/FOD_3.jpg)
 
 ## #MÁMTĚ
 
