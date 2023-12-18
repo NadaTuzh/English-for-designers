@@ -24,7 +24,7 @@ About me in a few adjectives: creative, responsible, organized, communicative, a
 **I have this personal passion project called MORJ, or Walrus.** You can find my daily MORJ drawings on Instagram (@the.morj). I started this project on January 5th, 2020, and I've posted a new MORJ every day since then. Each one is about different holidays, events, historical figures, countries, or everyday things. 
 
 It started with one sketch from my brother - and now there are over 1000 MORJs! 
-![The first hand-drawn MORJ by my brother and 44 digital MORJs drawn by me](assets/MORJ.jpg)
+![The first hand-drawn MORJ by my brother and 44 digital MORJs drawn by me](img/MORJ1.jpg)
 
 WHO IS THE MORJ? - https://www.instagram.com/stories/highlights/18088110301228019/
 
@@ -38,15 +38,15 @@ Apart from working late into the night and being a dedicated student during the 
 # My projects: 
 
 ## Fond ohrožených dětí (Endangered Children Fund)  
-![FOD project - blue and orange logo and branded mockups around it](assets/FOD_2.jpg)
+![FOD project - blue and orange logo and branded mockups around it](img/FOD_2.jpg)
 
 - My thesis work for the DiS. diploma 
 - It took me 6 months
 - **Goal of the project:** Create a visual identity that helps the organization better present, increase public confidence, and find new ways of approaching donors.
 - **Achievement:** A successful presentation in front of the client
 - **What I learned:** Good and thoughtful analysis helps a lot in creating identity.
-![FOD project - logo drafts and fonts testing ](assets/FOD_1.jpg)
-![FOD project - presentation in front of the client](assets/FOD_3.jpg)
+![FOD project - logo drafts and fonts testing ](img/FOD_1.jpg)
+![FOD project - presentation in front of the client](img/FOD_3.jpg)
 
 ## #MÁMTĚ
 ![MAMTE project - Hand holding game cards and challenge cards around](assets/MamTe_1.jpg)
