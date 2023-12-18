@@ -1,3 +1,8 @@
+- [**Nadezda Tuzhilkina**](./)
+    - [Work](english-for-designers/02-first-impression/index.html)
+    - [Writing](https://nadatuzh.github.io/english-for-designers/01-one-word/)
+    - [About me](https://stolgeth.github.io/english-for-designers/about-me.html)
+
 My draft version is a PDF file of my last portfolio with recent projects. The pdf you will find here on [the link](https://drive.google.com/file/d/1E9Qmnk6vPJ09dsfgRbWv17RE--_uRPHH/view?usp=sharing)
 
 # Or here you can find the first text drafts
