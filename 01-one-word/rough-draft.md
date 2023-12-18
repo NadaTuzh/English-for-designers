@@ -17,3 +17,9 @@
 **Real Apologies Are Important** - "My bad" doesn't work as a real apology.
 
 **Learning and Growing** - It taught me to be honest and not use excuses.
+
+### Progress:
+- [Rough draft](https://nadatuzh.github.io/english-for-designers/01-one-word/rough-draft.html) (word dump, sketch)
+- [First draft](https://nadatuzh.github.io/english-for-designers/01-one-word/first-draft.html) (make sense, cleanup)
+- [Edit](https://nadatuzh.github.io/english-for-designers/01-one-word/index.html) (review, process)
+- [Final](https://nadatuzh.github.io/english-for-designers/01-one-word/my-bad-final.html)
