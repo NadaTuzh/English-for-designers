@@ -21,3 +21,11 @@ The phrase had, in essence, become a crutch for avoiding genuine self-reflection
 As I reflected on the impact of those two innocuous words. I realised the importance of genuine apologies. Apologies should be heartfelt, a recognition of the pain we may have caused others. "My bad" had stripped that depth and sincerity from my apologies. Reducing them to hollow words that held no weight.
 
 "My bad" became a personal mantra. A constant reminder that every action bears weight, and every mistake has consequences. It taught me the irreplaceable value of integrity and the irrevocable cost of carelessness. While it may have left a bitter taste in my mouth. The phrase served as a catalyst for my personal growth. Urging me to strive for excellence and never to undermine the significance of accountability.
+
+
+
+### Progress:
+- [Rough draft](https://nadatuzh.github.io/english-for-designers/01-one-word/rough-draft.html) (word dump, sketch)
+- [First draft](https://nadatuzh.github.io/english-for-designers/01-one-word/first-draft.html) (make sense, cleanup)
+- [Edit](https://nadatuzh.github.io/english-for-designers/01-one-word/index.html) (review, process)
+- [Final](https://nadatuzh.github.io/english-for-designers/01-one-word/my-bad-final.html)
