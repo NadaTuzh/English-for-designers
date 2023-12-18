@@ -1,3 +1,9 @@
+- [**Nadezda Tuzhilkina**](./)
+    - [Work](https://nadatuzh.github.io/english-for-designers/02-first-impression/index.html)
+    - [Writing](https://nadatuzh.github.io/english-for-designers/01-one-word/)
+    - [About me](https://nadatuzh.github.io/english-for-designers/about-me.html)
+
+  
 **"My Bad"** - Two Simple Words That Can Make You Feel Good or Bad - Words can make us feel different emotions.
 
 **First Time Hearing** - in high school, but not when people were saying sorry.
