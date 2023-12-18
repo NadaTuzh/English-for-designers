@@ -1,7 +1,7 @@
 - [**Nadezda Tuzhilkina**](./)
     - [Work](https://nadatuzh.github.io/english-for-designers/02-first-impression/index.html)
-    - [Writing](https://nadatuzh.github.io/english-for-designers/01-one-word/my-bad-final.html)
-    - [About me](https://stolgeth.github.io/english-for-designers/about-me.html)
+    - [Writing](https://nadatuzh.github.io/english-for-designers/01-one-word/)
+    - [About me](https://nadatuzh.github.io/english-for-designers/about-me.html)
 
 ## Do you ever have a conversation with your colleague/classmate or just friend something like this: “Hey, did you send me the visual we had agreed on? The client is already asking” “Oh, my bad.” 
 
