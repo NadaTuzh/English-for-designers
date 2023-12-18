@@ -99,5 +99,8 @@ WHO IS THE MORJ? [Instagram animation](https://www.instagram.com/stories/highlig
 
 1 yeat anniversary [Instagram animation](https://www.instagram.com/stories/highlights/17986450684430848/)
 
+## Draft 
+[Draft](https://nadatuzh.github.io/english-for-designers/02-first-impression/draft.html)
+
 
 
