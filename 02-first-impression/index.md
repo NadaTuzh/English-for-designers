@@ -26,10 +26,6 @@ About me in a few adjectives: creative, responsible, organized, communicative, a
 It started with one sketch from my brother - and now there are over 1000 MORJs! 
 ![The first hand-drawn MORJ by my brother and 44 digital MORJs drawn by me](img/MORJ1.jpg)
 
-WHO IS THE MORJ? - https://www.instagram.com/stories/highlights/18088110301228019/
-
-1 yeat anniversary - https://www.instagram.com/stories/highlights/17986450684430848/
-
 My favorite MORJ from 2023 was posted on May 2nd. Can you spot it?
 
 # What I do in my free time
@@ -49,50 +45,59 @@ Apart from working late into the night and being a dedicated student during the 
 ![FOD project - presentation in front of the client](img/FOD_3.jpg)
 
 ## #MÁMTĚ
-![MAMTE project - Hand holding game cards and challenge cards around](assets/MamTe_1.jpg)
+![MAMTE project - Hand holding game cards and challenge cards around](img/MamTe_1.jpg)
 
 - Board game
 - School final project of the year under the supervision of Martin Strnad
 - Teamwork with Helen Simonová, Adéla Koukalová a Margareta Verdyck
 
-![MAMTE project - The photo of the game set](assets/MamTe_2.jpg)
+![MAMTE project - The photo of the game set](img/MamTe_2.jpg)
 
 - **Goal of the project:** Create a new board game with functional game rules and creative visuals. 
 - **Achievement:** Potential creating a real board game with the company ALBI
 - **What I learned:** Sometimes design itself is less important than being logical and entertaining.
 
-![MAMTE project - Drafts of the rules and first game design](assets/MamTe_3.jpg) 
-![MAMTE project - testing the game with friends and presentation at the VSKK](assets/MamTe_4.jpg)
-![MAMTE project - presentation in front of the ALBI representative](assets/MamTe_5.jpg)
+![MAMTE project - Drafts of the rules and first game design](img/MamTe_3.jpg) 
+![MAMTE project - testing the game with friends and presentation at the VSKK](img/MamTe_4.jpg)
+![MAMTE project - presentation in front of the ALBI representative](img/MamTe_5.jpg)
 
 
 ## Prague Food Festival
-![PFF project - Pastel pink, blue and yellow posters and branding](assets/PFF_1_2.jpg)
+![PFF project - Pastel pink, blue and yellow posters and branding](img/PFF_1_2.jpg)
 
 - The visual identity of the gastronomic festival in Prague 
 - **Goal of the project:** Adjust the visual according to the target group and show in the identity the extra value of the festival. 
 - **Achievement:** Complete visual identity, which is reflected in every piece of promotional materials. 
 - **What I learned:** Branding of the festival is about the vibe the identity will project and how it will affect people. And the devil is in the details.
 
-![PFF project - Social Media - Instagram - visualization](assets/PFF_1.jpg)
+![PFF project - Social Media - Instagram - visualization](img/PFF_1.jpg)
 
 
 ## CrossCafe
-![CC project - Each color (red, yellow, blue, green) represents one of the 4 reasons why visitors have come to CrossCafe](assets/CrossCafe_1.jpg)
+![CC project - Each color (red, yellow, blue, green) represents one of the 4 reasons why visitors have come to CrossCafe](img/CrossCafe_1.jpg)
 
 - Redesign of the franchise of the Czech coffee shop  
 - **Goal of the project:** Separate visual identity from the competitors and create a new communication and corresponding branding   
 - **Achievement:** Coroful identity for the cafe, where customers can share their unique enjoyment and do what they want.  
 - **What I learned:** Separate the work between the teammate and me and let the other person's creative flow. 
 
-![CC project - mockups of the cups, sandwiches and social media](assets/CrossCafe_2.jpg)
-![CC project - visualization of the entrance](assets/CrossCafe_3.jpg)
+![CC project - mockups of the cups, sandwiches and social media](img/CrossCafe_2.jpg)
+![CC project - visualization of the entrance](img/CrossCafe_3.jpg)
 
 ## Animations
 
 I have had a passion for animation since I was a child, but I had never committed to it professionally. (But it is never too late right?). I do animations for fun and visual is usually based on my works or just sth I like.  
 
-![Animation for CrossCafe](assets/Crosscafe_animace1.gif)
-![Animation for CrossCafe](assets/Crosscafe_animace2.gif)
+Animation for the projects
+
+![Animation for CrossCafe](img/Crosscafe_animace1.gif)
+![Animation for CrossCafe](img/Crosscafe_animace2.gif)
+
+MORJ
+
+WHO IS THE MORJ? [Instagram animation](https://www.instagram.com/stories/highlights/18088110301228019/)
+
+1 yeat anniversary [Instagram animation](https://www.instagram.com/stories/highlights/17986450684430848/)
+
 
 
