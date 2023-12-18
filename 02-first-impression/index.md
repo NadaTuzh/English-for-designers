@@ -1,5 +1,5 @@
 - [**Nadezda Tuzhilkina**](./)
-    - [Work](english-for-designers/02-first-impression/index.html)
+    - [Work](https://nadatuzh.github.io/english-for-designers/02-first-impression/index.html)
     - [Writing](https://nadatuzh.github.io/english-for-designers/01-one-word/)
     - [About me](https://stolgeth.github.io/english-for-designers/about-me.html)
 
