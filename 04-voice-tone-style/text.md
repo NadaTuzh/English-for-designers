@@ -1,4 +1,4 @@
-# Take a step away from your work
+# Gain Perspective: Step Back
 As a creative soul, art has always drawn me. Creativity has shaped who I am. From sketching to exploring various forms of expression. Along this journey, I've learned a valuable lesson that I want to share with you.
 
 Traditional drawing, a fundamental aspect of art education, often felt tedious. Spending hours drawing figures or scenes tested my patience. Despite my efforts, there were times when my work fell short. Perspective skewed, details overemphasized. It was during these moments that my teacher taught me to step back. By creating distance, I gained a broader view, allowing me to reassess and adjust my approach.
