@@ -1,5 +1,5 @@
 # Gain Perspective: Step Back
-As an artist, the creative spark has always pulled me towards it. It's shaped me, from early sketches to exploring different forms of expression. But on this journey, there's one crucial lesson I've learned. It goes beyond the art world, and I want to share it with you.
+As an artist, the creative spark has always pulled me towards it. It's shaped me, from early sketches to exploring different forms of expression. But on this journey, there's one crucial lesson I've learned. It goes beyond the art world.
 
 Remember those traditional drawing classes where hours passed by on figures and scenes? It could feel like a slog, testing your patience. No matter how hard I tried, sometimes my work wasn't right. The perspective was off, and the details were overwhelming. That's when my teacher introduced the power of stepping back. Taking that physical distance gave me a broader view. It allowed me to see my work with fresh eyes and make adjustments.
 
