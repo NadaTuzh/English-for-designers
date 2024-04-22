@@ -5,7 +5,13 @@ In the bustling world of retail, differentiation is key, but for a chain of erot
 The goal was ambitious yet clear: to reimagine Erotic City's branding to reflect its unique identity and enhance its market position. 
 
  ## Market Context and Challenges
-In my thesis, I conducted an in-depth market analysis that was fundamental in developing a new identity for Erotic City. This analysis explored Erotic City's current market standing, positioning, target demographic, and competitors, employing comprehensive methods like visual communication audits, marketing communication audits, and competitor analysis.
+In my thesis,  I focused on the deep study of the market to help create a new identity for Erotic City. First, I looked into what people currently think about Erotic City. This helped me understand where Erotic City stands in the market. I focused on who the customers are, what they like, and how they behave. This helped me figure out exactly who we should try to reach. 
+
+I made up detailed descriptions of the typical customers. These descriptions were based on data and research. The main part was to find out what most customers are like, what they need, and what they expect. This helped me understand the different types of customers better. Because of this, I could make design and marketing decisions more specific.
+
+I also looked at what competitors of Erotic City are doing. I studied how they try to attract customers and their identities. By seeing what they do well and where they're not as strong, I could find ways for Erotic City to be different and better. This part of my study helped me figure out how Erotic City can stand out from others and be special.
+
+This big market study was the main part of my work to help make a new and better image for Erotic City. We wanted to ensure it spoke to customers and made Erotic City stand out in a busy market.
 
  ## Branding Strategy - "Connection"
 The insights derived from this analysis revealed both challenges and opportunities within the market. These insights proved crucial in crafting the "Connection" concept, which integrates the synergy of rational and emotional benefits, enhancing the brand’s appeal. This strategic shift was aimed at distinctly positioning Erotic City apart from its competitors by deepening the connection with customers and enriching their overall experience with the brand. This strategy focuses on enhancing customer experience and establishing a clear, distinct market presence that resonates with both new and existing customers.
