@@ -30,7 +30,7 @@ In the typography, the flowing  Neulis font reflects the word "erotic". Neulis b
 
 This combination of fonts and colors represents the Erotic City's philosophy and values.  
 
-### Typo 
+### Typography
 When I was looking for a front for the new look for Erotic City, I wanted the style to be both fancy and modern. At first, I tried using serif fonts because they looked elegant and rich. But they felt too old-fashioned for what we wanted to be about modern sexuality. Then, I tried using plain, geometric sans-serif fonts that looked modern. But they didn't make people feel connected to the brand.
 
 After thinking it over, I chose two fonts called Neulis and Neulis Alt. And they were just right. Neulis, made by Adam Ladd, is a modern font that makes words look beautiful and lively. It's easy to read and makes anything written with it look stylish. Neulis Alt, a different version of Neulis, is simpler and cleaner. It gives a professional look without being too fancy.
@@ -56,30 +56,30 @@ When creating the new look and feel for Erotic City, I focused on making the way
 
 I also created a special way of talking for Erotic City. The goal was to make the shopping experience unique and better. New words that show class and uniqueness. Showing that Erotic City is about more than products; it’s about a way of life that values love and quality. These new words help the brand stand out from others. Build a stronger emotional bond with customers.  And improve how people see the Erotic City. This way of talking helps the brand share beliefs and values better. It keeps current customers loyal and attracts new ones who want more from the shopping experience.
 
- ## Innovative Marketing Strategies
+## Innovative Marketing Strategies
 In the last part of my thesis, I worked on creating a strategy for Erotic City, a store that sells adult products. The goal was to make Erotic City better by combining emotional with rational aspects. And making the shopping experience about more than just buying things.
 
 Here's a breakdown of the main ideas from my strategy:
 
-## Telling a Story About the Brand. 
+### Telling a Story About the Brand. 
 The plan centered around a strong story spreading through all marketing channels. From in-store to social media. This story linked emotions with usefulness. Creates a sense of community and trust between the brand and its customers.
 
-## Making the Store Welcoming. 
+### Making the Store Welcoming. 
 The plan of design of the stores focuses on creating the feeling of comfort and welcoming.  With specific lights and  brand colors, the goal was to make a space that not only helps shopping. But also makes customers feel secure and valued.
 
-## Packaging and Brand Look.
+### Packaging and Brand Look.
 A lot of focus is on product packaging. The packaging looks good and shows off the brand's style. It helps to unite the products and improve the shopping experience.
 
-## Working with Experts. 
+### Working with Experts. 
 Erotic City collaborates with experts and educates its workers.  The brand holds special events and workshops in the stores to give extra value to its customers.  Providing the space for conversation Erotic City connects customers and specialists. Also, some events focus on products more, creating a place for offline exchange. 
 
-## Rewards and Community.
+### Rewards and Community.
 Erotic City Club is a loyalty program to reward customers. The goal is not just to buy things but to be active with the brand online and offline. This builds a community around Erotic City, keeps customers coming back, and spreads positive words.
 
-## Social Media and Community. 
+### Social Media and Community. 
 The strategy included a strong online presence, especially on social media. Content focuses on the needs and specifics of each social media with the target audience. Instagram builds brand awareness being a neutral ground for the content. LinkedIn shows the behind-the-scenes of the adult toys industry, providing more information. YouTube provides space for educational and entertainment videos, whereas the brand is a sponsor. 
 
 The strategy focuses on engaging customers through platforms like social media and forums. By adding X the brand can communicate with its audience and create community. The forum on Erotic City's website encourages customers to have an open conversation.  By receiving rewards for reviews, customers strengthen brand loyalty and public perception.
 
-### Conclusion: A Benchmark for Industry Innovation
+## Conclusion: A Benchmark for Industry Innovation
 I developed a new brand strategy and visual communication for the Erotic City. My concept, "Connection," integrates both the rational and emotional benefits of the brand. The aim is to strengthen its market position. I created a unique visual identity and communication strategy  that can improve the experience with the brand. This approach can serve as a benchmark for branding in the erotic industry.
