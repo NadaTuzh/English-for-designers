@@ -81,5 +81,5 @@ The strategy included a strong online presence, especially on social media. Cont
 
 The strategy focuses on engaging customers through platforms like social media and forums. By adding X the brand can communicate with its audience and create community. The forum on Erotic City's website encourages customers to have an open conversation.  By receiving rewards for reviews, customers strengthen brand loyalty and public perception.
 
- ## Conclusion: A Benchmark for Industry Innovation
+### Conclusion: A Benchmark for Industry Innovation
 I developed a new brand strategy and visual communication for the Erotic City. My concept, "Connection," integrates both the rational and emotional benefits of the brand. The aim is to strengthen its market position. I created a unique visual identity and communication strategy  that can improve the experience with the brand. This approach can serve as a benchmark for branding in the erotic industry.
