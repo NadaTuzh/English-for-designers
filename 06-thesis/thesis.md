@@ -22,9 +22,9 @@ In my thesis,  I focused on the deep study of the market to help create a new id
 
 I made up detailed descriptions of the typical customers. These descriptions were based on data and research. The main part was to find out what most customers are like, what they need, and what they expect. This helped me understand the different types of customers better. Because of this, I could make design and marketing decisions more specific.
 
-![alt text](/06-thesis/img/ec-target group1.jpg)
+![alt text](/06-thesis/img/ec-target-group1.jpg)
 
-![alt text](/06-thesis/img/ec-target group2.jpg)
+![alt text](/06-thesis/img/ec-target-group2.jpg)
 
 I also looked at what competitors of Erotic City are doing. I studied how they try to attract customers and their identities. By seeing what they do well and where they're not as strong, I could find ways for Erotic City to be different and better. This part of my study helped me figure out how Erotic City can stand out from others and be special.
 
