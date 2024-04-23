@@ -42,6 +42,8 @@ The new look for Erotic City has been changed to make it look nicer and more ple
 
 We also thought about keeping the bright yellow color. Yellow is more iconic for Erotic City and works right symbolically.  But when we mixed it with purple, it was too bold and didn't match what the new philosophy. So, we chose red "Crimson Passion" to match the feelings of love and excitement that fit with the brand. Red works well with the calm royal purple. This mix of colors shows what Erotic City is all about, making it look good and making sense of the identity.
 
+![alt text](/06-thesis/img/barevnost-1.jpg)
+
 ### Visual
 The new identity of Erotic City has three main visual parts. These elements are noir photography, subtle illustrations of erotic toys and the human body, and the motif of resonance.
 
