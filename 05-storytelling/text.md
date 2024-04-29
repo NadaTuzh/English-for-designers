@@ -5,9 +5,9 @@ I remember those traditional drawing classes where hours passed by on figures an
 
 This concept of stepping back isn't about art. In my early tennis days, I focused on having fun, neglecting proper technique. It's been like this for years. Until a new coach showed the importance of "space" between the player and the ball. That one change transformed my game. Stepping back allowed me to refine my approach, boosting my performance.
 
-Last but not least, this rule applied in my personal life too. Sometimes you might have trouble getting along with someone. Sometimes the "someone" is from your family. And even though they believe they give you the best advice and try to help you, their words might feel suffocating. Irrateting. Just their presence is enough for your veins to pump. But one day I stepped away from them. I decided to take a break from seeing them. During that time, I thought a lot about our relationship. It helped me understand and forgive them. Nowadays Now, things aren’t perfect, but they're definitely better.
+Last but not least, this rule applied in my personal life too. Sometimes you might have trouble getting along with someone. Sometimes the "someone" is from your family. And even though they believe they give you the best advice and try to help you, their words might feel suffocating. Irrateting. Just their presence is enough for your veins to pump. But one day I stepped away from them. I decided to take a break from seeing them. During that time, I thought a lot about our relationship. It helped me understand and forgive them. Nowadays, things aren’t perfect, but they're definitely better.
 
-This metaphorical "space" between ourselves and what we do is valuable. It's a reminder to break free from tunnel vision and embrace a broader view. It's a pause for reflection. So next time you're feeling stuck, remember the power of taking a step away. It's where you'll find the space to find clarity and pave the way for growth.
+This symbolic "space" between ourselves and what we do is valuable. It's a reminder to break free from tunnel vision and embrace a broader view. It's a pause for reflection. So next time you feel stuck, remember the power of taking a step away. It's where you'll find the space to find clarity and pave the way for growth.
 
 
 
