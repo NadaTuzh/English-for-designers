@@ -134,7 +134,7 @@ A lot of focus is on product packaging. The packaging looks good and shows off t
 
 ![alt text](/06-thesis/img/packaging-2.jpg)
 
-### Working with Experts. 
+### Working with Specialists. 
 Erotic City collaborates with experts and educates its workers.  The brand holds special events and workshops in the stores to give extra value to its customers.  Providing the space for conversation Erotic City connects customers and specialists. Also, some events focus on products more, creating a place for offline exchange. 
 
 ![alt text](/06-thesis/img/specialisty-1.jpg)
