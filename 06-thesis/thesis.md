@@ -100,7 +100,7 @@ When creating the new look and feel for Erotic City, I focused on making the way
 
 ![alt text](/06-thesis/img/tone-of-voice.jpg)
 
-I also created a special way of talking for Erotic City. The goal was to make the shopping experience unique and better. New words that show class and uniqueness. Showing that Erotic City is about more than products; it’s about a way of life that values love and quality. These new words help the brand stand out from others. Build a stronger emotional bond with customers.  And improve how people see the Erotic City. This way of talking helps the brand share beliefs and values better. It keeps current customers loyal and attracts new ones who want more from the shopping experience.
+I also created a special way of talking for Erotic City. The goal was to make the shopping experience unique and better. New words that show class and uniqueness. Showing that Erotic City is more than products; it’s about a way of life that values love and quality. These new words help the brand stand out from others. Build a stronger emotional bond with customers. And improve how people see the Erotic City. This way of talking helps the brand share beliefs and values better. It keeps current customers loyal and attracts new ones who want more from the shopping experience.
 
 Examples terminology:
 - „Butik“ pro označení poboček,
