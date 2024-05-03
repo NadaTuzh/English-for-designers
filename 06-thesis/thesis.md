@@ -174,3 +174,6 @@ I developed a new brand strategy and visual communication for the Erotic City. M
 ![alt text](/06-thesis/img/merch-1.jpg)
 
 ![alt text](/06-thesis/img/merch-2.jpg)
+
+[Back](https://nadatuzh.github.io/english-for-designers/)
+
