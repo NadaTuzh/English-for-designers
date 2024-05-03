@@ -4,7 +4,7 @@
     - [About me](https://nadatuzh.github.io/english-for-designers/about-me.html)
     - [Brand Voice](https://nadatuzh.github.io/english-for-designers/04-voice-tone-style/brand-voice-tone-style.html)
     - [My Voice, Tone and Style](https://nadatuzh.github.io/english-for-designers/04-voice-tone-style/voice-tone-and-style.html)
-    - [Storytelling](https://nadatuzh.github.io/english-for-designers/05-storytelling/text.html)
+    - [Storytelling](https://nadatuzh.github.io/english-for-designers/04-voice-tone-style/brand-voice-tone-style.html)
     - [Thesis Talk](https://nadatuzh.github.io/english-for-designers/06-thesis/thesis.html)
 
 ### I'm Nadezda Tuzhilkina, but you can call me Naďa Tužilkina. 
