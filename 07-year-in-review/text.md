@@ -1,3 +1,5 @@
+# Year in review 
+
 Looking back on the past year, it feels like I've started to grow up.  I'm dealing with both good and tough times that have shaped my growth and perspective.
 
 One big part of my year was getting into Dungeons and Dragons. Here I let my imagination run wild with character creation and fantasy scenarios. Even though I still struggle with understanding all the rules. I've gotten better at playing my Paladin character, which shows I'm getting the hang of it.
