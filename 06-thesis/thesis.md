@@ -1,6 +1,6 @@
 # Rebranding Erotic City: A Bold New Vision in Brand Strategy and Visual Communication
 
-![alt text](/06-thesis/img/logotyp-2.jpg)
+![alt text](https://nadatuzh.github.io/english-for-designers/06-thesis/img/logotyp-2.jpg)
 
 [Video](https://drive.google.com/file/d/1bbAU8ifk1DgwEuzY_U5sJ4sBfo6X7zKZ/view?usp=drive_link)
 
