@@ -24,5 +24,5 @@ Example: Green is used for right answers and red for wrong ones, giving you quic
 - Keeps You Coming Back: The games and rewards on Duolingo make you want to keep playing and learning. This is important because practicing a little bit every day is the best way to learn a new language.
 - For Everyone: Duolingo's style works well whether you're serious about learning or just want to try something new for fun. It balances learning with fun activities, so you want to keep coming back.
 
-
+[Back](https://nadatuzh.github.io/english-for-designers/)
 Overall, Duolingo's way of talking and presenting itself makes learning new languages fun, easy, and rewarding. This helps everyone stick with their language learning goals and enjoy the process.
