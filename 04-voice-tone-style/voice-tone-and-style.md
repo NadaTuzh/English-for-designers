@@ -23,5 +23,7 @@ My style is specific and flexible, reflecting to be clear and engaging. Here are
 
 - Punctions freak - I pay attention to where I put things like periods. Each sentence ends clearly.
 - Emojis - Adjusting to different emoji styles was tough. It requires me to move from the Russian style of using multiple ")" to more common emojis and even try out expressive Japanese symbols like the table-flip "(╯°□°）╯︵ ┻━┻".  
-- Message Structure - Sometimes I send one big message, or I might break it up into smaller ones if it makes it easier to chat back and forth. It depends on what I'm trying to say. 
+- Message Structure - Sometimes I send one big message, or I might break it up into smaller ones if it makes it easier to chat back and forth. It depends on what I'm trying to say.
+
+[Back](https://nadatuzh.github.io/english-for-designers/)
 
