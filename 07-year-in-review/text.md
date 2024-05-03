@@ -11,3 +11,5 @@ On a creative front, the development of our board game has been a source of exci
 Academically, I worked on my thesis, which was hard but satisfying. I explored how erotic stores can stand out and attract customers. I've learned that it's better to do something really well, even if it's not perfect. Then to do nothing because of the fear of imperfection. I believe that my research offers fresh perspectives. It has the potential to redefine the brand in this unique sector.
 
 In retrospect, this year is about the beginning of adulthood. About growing up and facing challenges. Through the highs and lows, I've learned a lot and become stronger. 
+
+[Back](https://nadatuzh.github.io/english-for-designers/)
