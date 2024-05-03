@@ -1,4 +1,8 @@
 # Gain Perspective: Step Back
+[Video](https://drive.google.com/file/d/10OLACYfYqN65UGhTXaxwcvbpJ2WZ9jF9/view?usp=drive_link)
+
+[Audio](https://drive.google.com/file/d/1hCaFboHd9h9_cm6oXlZTfBKV-Zb9x8C1/view?usp=drive_link)
+
 The creative spark has always pulled me towards it. It's shaped me, from early sketches to exploring different forms of expression. But on this journey, there's one crucial lesson I've learned. It goes beyond the art world.
 
 I remember those traditional drawing classes where hours passed by on figures and scenes. It could feel like a slog, testing my patience. No matter how hard I tried, sometimes my work didn't feel right. The perspective was off, and the details were overwhelming. That's when my teacher introduced the power of stepping back. Taking that physical distance gave me a broader view. It allowed me to see my work with fresh eyes and make adjustments.
