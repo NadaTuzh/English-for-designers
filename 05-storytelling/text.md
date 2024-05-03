@@ -13,5 +13,7 @@ Last but not least, this rule applied in my personal life too. Sometimes you mig
 
 This symbolic "space" between ourselves and what we do is valuable. It's a reminder to break free from tunnel vision and embrace a broader view. It's a pause for reflection. So next time you feel stuck, remember the power of taking a step away. It's where you'll find the space to find clarity and pave the way for growth.
 
+[Back](https://nadatuzh.github.io/english-for-designers/)
+
 
 
