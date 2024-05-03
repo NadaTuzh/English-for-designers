@@ -2,6 +2,11 @@
 
 ![alt text](/06-thesis/img/logotyp-2.jpg)
 
+[Video](https://drive.google.com/file/d/1bbAU8ifk1DgwEuzY_U5sJ4sBfo6X7zKZ/view?usp=drive_link)
+
+[Audio](https://drive.google.com/file/d/1WocjdgyB8iDmK90dyKbFOSc2rW7ARv0d/view?usp=drive_link)
+
+
  ## Introduction
 In the bustling world of retail, differentiation is key. But for a chain of erotic stores like Erotic City, it’s not just about standing out—it’s about reinventing presence. This was the challenge tackled in my thesis. I aimed at redefining the brand identity and marketing strategies of Erotic City. With a desire to innovate the adult toy industry, my work dives into the deep of branding and visual communication.
 
